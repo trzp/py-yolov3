@@ -1,5 +1,7 @@
 # py-yolov3
 * 提供了python使用yolov3类的多进程程序，查看yolo_mul_pro
+* 该类基于调用yolov3编译生成的dll
+* 编译dll,查看https://github.com/AlexeyAB/darknet
 * 该类完全适用windows系统
 
 * 部分文件未上传，查看readme.png
